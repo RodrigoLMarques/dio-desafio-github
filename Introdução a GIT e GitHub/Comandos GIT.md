@@ -5,12 +5,12 @@
 Você encontrará informações sobre os seguintes tópicos:
 
 - [Inicialização do repositório](https://github.com/RodrigoLMarques/dio-desafio-github/blob/main/Introdu%C3%A7%C3%A3o%20a%20GIT%20e%20GitHub/Comandos%20GIT.md#inicialização-do-repositório)
-- [Configurações do Git](https://github.com/RodrigoLMarques/dio-desafio-github/edit/main/Introdu%C3%A7%C3%A3o%20a%20GIT%20e%20GitHub/Comandos%20GIT.md#configurações-do-git)
-- [Operações com arquivos](https://github.com/RodrigoLMarques/dio-desafio-github/edit/main/Introdu%C3%A7%C3%A3o%20a%20GIT%20e%20GitHub/Comandos%20GIT.md#operações-com-arquivos)
-- [Operações com commits](https://github.com/RodrigoLMarques/dio-desafio-github/edit/main/Introdu%C3%A7%C3%A3o%20a%20GIT%20e%20GitHub/Comandos%20GIT.md#operações-com-commits)
-- [Visualização do histórico](https://github.com/RodrigoLMarques/dio-desafio-github/edit/main/Introdu%C3%A7%C3%A3o%20a%20GIT%20e%20GitHub/Comandos%20GIT.md#visualização-do-histórico)
-- [Ramificações e tags](https://github.com/RodrigoLMarques/dio-desafio-github/edit/main/Introdu%C3%A7%C3%A3o%20a%20GIT%20e%20GitHub/Comandos%20GIT.md#ramificações-e-tags)
-- [Operações com repositórios remotos](https://github.com/RodrigoLMarques/dio-desafio-github/edit/main/Introdu%C3%A7%C3%A3o%20a%20GIT%20e%20GitHub/Comandos%20GIT.md#operações-com-repositórios-remotos)
+- [Configurações do Git](https://github.com/RodrigoLMarques/dio-desafio-github/blob/main/Introdu%C3%A7%C3%A3o%20a%20GIT%20e%20GitHub/Comandos%20GIT.md#configurações-do-git)
+- [Operações com arquivos](https://github.com/RodrigoLMarques/dio-desafio-github/blob/main/Introdu%C3%A7%C3%A3o%20a%20GIT%20e%20GitHub/Comandos%20GIT.md#operações-com-arquivos)
+- [Operações com commits](https://github.com/RodrigoLMarques/dio-desafio-github/blob/main/Introdu%C3%A7%C3%A3o%20a%20GIT%20e%20GitHub/Comandos%20GIT.md#operações-com-commits)
+- [Visualização do histórico](https://github.com/RodrigoLMarques/dio-desafio-github/blob/main/Introdu%C3%A7%C3%A3o%20a%20GIT%20e%20GitHub/Comandos%20GIT.md#visualização-do-histórico)
+- [Ramificações e tags](https://github.com/RodrigoLMarques/dio-desafio-github/blob/main/Introdu%C3%A7%C3%A3o%20a%20GIT%20e%20GitHub/Comandos%20GIT.md#ramificações-e-tags)
+- [Operações com repositórios remotos](https://github.com/RodrigoLMarques/dio-desafio-github/blob/main/Introdu%C3%A7%C3%A3o%20a%20GIT%20e%20GitHub/Comandos%20GIT.md#operações-com-repositórios-remotos)
 
 
 
